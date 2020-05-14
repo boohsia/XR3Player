@@ -218,11 +218,7 @@
 		</dependency>
 
 		<!-- CHROMIUM BROWSER -->
-		<dependency>
-			<groupId>com.teamdev.jxbrowser</groupId>
-			<artifactId>jxbrowser-win64</artifactId>
-			<version>6.23.1</version>
-		</dependency>
+		
 
 		<!-- JAVAFX GRAPHICS LIBRARIES -->
 		<dependency>
